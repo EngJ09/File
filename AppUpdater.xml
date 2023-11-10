@@ -1,1 +1,6 @@
-10
+<Updater>
+  <latestVersion>1.2.2</latestVersion>
+  <latestVersionCode>10</latestVersionCode>
+  <url>https://github.com/javiersantos/AppUpdater/releases</url>
+  <description>Bug Fix</description>
+<Updater>
